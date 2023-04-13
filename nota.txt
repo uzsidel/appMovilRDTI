@@ -1,0 +1,2 @@
+para ejecutar los assest se configura el archivo pubspe, en este caso se deja la linea 62 se descomenta y se deja
+assets/
